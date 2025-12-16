@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow Pro",
+  "description": "A role-based task management system with drag-and-drop reassignment capabilities using LocalStorage for persistence.",
+  "requestFramePermissions": []
+}
